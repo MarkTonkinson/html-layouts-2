@@ -1,0 +1,36 @@
+.red {
+	width: 100%;
+	height: 300px;
+	background-color: red;
+}
+.content {
+	width: 100%;
+	height: 500px;
+}
+.blue {
+	width: 30%;
+	height: 100%;
+	background-color: blue;
+}
+.float-left {
+	float: left;
+}
+.smallbox {
+	display: inline-block;
+	width: 40%;
+	height: 100%;
+}
+.yellow {
+	width: 100%;
+	height: 80%;
+	background-color: yellow;
+
+}
+.green {
+	width: 100%;
+	height: 20%;
+	background-color: green;
+}
+.float-right {
+	float: right;
+}
