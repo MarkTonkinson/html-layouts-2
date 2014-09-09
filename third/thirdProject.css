@@ -2,9 +2,9 @@
 .hi {
 	
 	height:300px;
-	max-width: 400px;
+	max-width: 300px;
   	margin: auto;
-  	margin-top: -30px;
+  	margin-top: -130px;
 	background-color: #D1E0E0;
 	display: block;
 	
@@ -12,16 +12,16 @@
 
 p{
 	font-family: Arial;
-	font-size: 50px;
+	font-size: 150px;
 	text-align: center;
-	padding-top: 140px;
-	padding-bottom: 140px;
+	padding-top: 70px;
+	
 }
 
 .scroll{
-	height: 100px;
+	height: 80px;
 	border: none;
-	max-width: 400px;
+	max-width: 300px;
   	margin: 0 auto;
 }
 
@@ -29,14 +29,14 @@ p{
 	font-family: Arial;
 	text-align: center;
 	font-size: 25px;
-	padding-top: 40px;
-	padding-bottom: 40px;
+	padding-top: 35px;
+	padding-bottom: 35px;
 }
 
 .box {
 	height: 50px;
 	display: block;
-	max-width: 400px;
+	max-width: 300px;
   	margin: 0 auto;
 }
 
@@ -59,4 +59,11 @@ p{
 
 .gray {
 	background-color: #D1E0E0;
+}
+
+.invisibox {
+	background-color: white;
+	width: 200px;
+	height: 200px;
+	
 }
