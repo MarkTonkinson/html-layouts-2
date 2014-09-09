@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+	<header>
+		<div class="text"
+		<div class="container"></div>
+	</header>
+	<footer>
+
+	</footer>
+</body>
+</html>
